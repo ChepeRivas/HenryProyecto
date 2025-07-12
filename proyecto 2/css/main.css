@@ -1,0 +1,19 @@
+.tema{
+            height: 500px;
+            width: 100%;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-image: url("/images/tema1.jfif");
+            color: black;
+            
+            
+        
+        }
+        .tema2{
+            background-color: black;
+            color: antiquewhite;
+            background-size: no-repeat;
+            background-position: center;
+
+        }
